@@ -6,5 +6,23 @@ title: Kyle A Trojahn
   Welcome! 
 
 I am a Ph.D. Student in the <a href="https://liberalarts.utexas.edu/government/">Department of Government</a>
-  at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>.</p>
+  at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>. My substantive subfields are American Politics & Public Policy.
+  
+  Broadly, I study the politics of education, local/urban politics, and partisan polarization.
+  
+  
+</p>
+
+<p id="demo"></p>
+var i = 0;
+var txt = 'Lorem ipsum typing effect!'; /* The text */
+var speed = 50; /* The speed/duration of the effect in milliseconds */
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
 
