@@ -17,7 +17,7 @@ navbar-links:
   Home: " "
   Research: "research.md"
   Teaching: "teaching.md"
-  CV: "assets/Curriculum Vitae (CV) - Trojahn, Kyle [Published].docx.pdf"
+  CV: target="_blank" "assets/Curriculum Vitae (CV) - Trojahn, Kyle [Published].docx.pdf"
 
 # --- Logo --- #
 
