@@ -15,8 +15,8 @@ author: Kyle A Trojahn
 
 navbar-links:
   Home: " "
-  Research: "research.md"
-  Teaching: "teaching.md"
+  Research: "research"
+  Teaching: "teaching"
   CV: "assets/Curriculum Vitae (CV) - Trojahn, Kyle [Published].docx.pdf"
 
 # --- Logo --- #
