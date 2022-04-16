@@ -97,14 +97,14 @@ keywords: "kyle,trojahn,ut,austin,government,political,science,politics,educatio
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FF7400"
+navbar-col: "#bf5700"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#FFB47A"
-footer-col: "#FF7400"
+footer-col: "#bf5700"
 footer-text-col: "#1A1A1A"
 footer-link-col: "#404040"
 footer-hover-col: "#FFB47A"
