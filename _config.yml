@@ -105,12 +105,12 @@ text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#FFB47A"
 footer-col: "#bf5700"
-footer-text-col: "#bf5700"
+footer-text-col: "#1A1A1A"
 footer-link-col: "#404040"
 footer-hover-col: "#FFB47A"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour 1A1A1A
+# instead of colour
 
 #navbar-img: "assets/img/640px-University_of_Texas_at_Austin_seal.svg.png"
 #footer-img: "assets/img/640px-University_of_Texas_at_Austin_seal.svg.png"
