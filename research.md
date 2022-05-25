@@ -2,15 +2,6 @@
 layout: page
 title: Research
 ---
-<head>
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
 
 <div class="text-left">
   <h1>Undergraduate Research (Not Published)</h1>
