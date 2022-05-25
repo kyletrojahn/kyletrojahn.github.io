@@ -52,5 +52,5 @@ title: Research
   </details>
   
 </div>
-  <img src="[assets/img/orion_my_dog_gif.gif](https://kyletrojahn.com/assets/img/orion_my_dog_gif.gif)" alt="dog" style="width:50%">
+  <img src="assets/img/orion_my_dog_gif.gif" alt="dog" style="width:50%">
 
