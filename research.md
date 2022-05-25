@@ -4,9 +4,8 @@ title: Research
 ---
 
 <div class="text-left">
-  <h1>Undergraduate Research</h1>
-  <h2>Not Published</h2>
-
+  <h1>Undergraduate Research | Not Published</h1>
+  
 <details>
   <summary>
     <b>“Political Culture & State-level Elementary Education Appropriations” (2019)</b>
