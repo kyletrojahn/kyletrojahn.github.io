@@ -44,7 +44,7 @@ title: Research
 
 <details>
   <summary>
-    “Remedying a Fall from Global Prominence: Analysis of the GOALS 2000 Educate America Act”	(2018)
+    “Remedying a Fall from Global Prominence: GOALS 2000 Educate America Act”	(2018)
   </summary>
   <p>
     Utilized John Kingdon's Policy Streams Model and Graham Allison's Governmental Politics Model to study the formulation and implementation of the GOALS 2000: Educate America Act
