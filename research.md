@@ -2,6 +2,15 @@
 layout: page
 title: Research
 ---
+<head>
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
 
 <div class="text-left">
   <h1>Undergraduate Research (Not Published)</h1>
@@ -53,15 +62,6 @@ title: Research
     Utilized OLS regression analysis on state-level standardized testing data and government-funded teacher advancement programs to explore the link between merit pay and academic performance
   </p>
   </details>
-
- meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
   
-  <img src="assets/img/orion_my_dog_gif.gif" alt="dog" class="center">
+  <img src="assets/img/orion_my_dog_gif.gif" alt="dog" style="width:50%">
 </div>
