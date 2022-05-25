@@ -4,7 +4,8 @@ title: Research
 ---
 
 <div class="text-left">
-  <h1>Undergraduate Research (Not Published)</h1>
+  <h1>Undergraduate Research</h1>
+  <h2>Not Published</h2>
 
 <details>
   <summary>
