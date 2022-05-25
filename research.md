@@ -4,6 +4,9 @@ title: Research
 ---
 
 <div class="text-left">
+  <h3>Peer-reviewed Publications</h3>
+  <h3>Working Papers</h3>
+  <h3>Works in Progress</h3>
   <h3>Undergraduate Research | Not Published</h3>
   
 <details>
