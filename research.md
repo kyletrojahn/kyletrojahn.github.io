@@ -5,7 +5,6 @@ title: Research
 
 <div class="text-left">
   <h1>Undergraduate Research Projects & Designs (Not Published)</h1>
-  <p>
 
 <ul>
 <li><b>“Political Culture & State-level Elementary Education Appropriations” (2019):</b>
@@ -19,7 +18,6 @@ Utilized John Kingdon's Policy Streams Model and Graham Allison's Governmental P
 <li><b>“Analyzing the Effectiveness of Merit-based Teacher Advancement Programs on Elementary Education”	(2017):</b>
 Utilized OLS regression analysis on state-level standardized testing data and government-funded teacher advancement programs to explore the link between merit pay and academic performance</li>
   </ul>
-  </p>
   <br/>
 
   <img src="assets/img/orion_my_dog_gif.gif" alt="dog" />
