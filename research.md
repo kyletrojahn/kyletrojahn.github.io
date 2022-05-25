@@ -22,5 +22,5 @@ Utilized OLS regression analysis on state-level standardized testing data and go
   </p>
   <br/>
 
-  <img src="{{ 'assets/img/orion_my_dog_gif.gif' | relative_url }}" alt="Not found" />
+  <img src="assets/img/orion_my_dog_gif.gif" alt="dog" />
 </div>
