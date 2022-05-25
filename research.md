@@ -29,7 +29,7 @@ title: Research
     “Education Reform as a Tool of State Repression”
   </summary>
   <p>
-   Utilized Finkel and Davenport’s characterizations of state repression to conduct a case study on Canada’s use of education reform as a tool of state repression to subjugate the aboriginal population into residential schools via The Indian Act of 1876. (2019)
+   Utilized Finkel and Davenport’s characterizations of state repression to conduct a case study on Canada’s use of education reform as a tool of state repression to subjugate the aboriginal population into residential schools via <i>The Indian Act of 1876</i>. (2019)
   </p>
 </details>
  <br>
