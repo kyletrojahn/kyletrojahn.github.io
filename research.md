@@ -4,7 +4,7 @@ title: Research
 ---
 
 <div class="text-left">
-  <h1>Undergraduate Research Projects & Designs (Not Published)</h1>
+  <h1>Undergraduate Research (Not Published)</h1>
 
 <details>
   <summary>
@@ -54,5 +54,14 @@ title: Research
   </p>
   </details>
 
-  <img src="assets/img/orion_my_dog_gif.gif" alt="dog" align="middle">
+ meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+  
+  <img src="assets/img/orion_my_dog_gif.gif" alt="dog" class="center">
 </div>
