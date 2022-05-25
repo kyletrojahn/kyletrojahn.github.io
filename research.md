@@ -54,5 +54,5 @@ title: Research
   </p>
   </details>
 
-  <img src="assets/img/orion_my_dog_gif.gif" alt="dog">
+  <img src="assets/img/orion_my_dog_gif.gif" alt="dog" align="middle">
 </div>
