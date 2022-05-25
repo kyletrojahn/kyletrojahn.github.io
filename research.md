@@ -14,7 +14,7 @@ title: Research
   <p>N/A</p>
   
   <h3>Undergraduate Research Projects | Not Published</h3>
-  
+ <p> 
 <details>
   <summary>
     “Political Culture & State-level Elementary Education Appropriations”
@@ -59,5 +59,5 @@ title: Research
    (2017) Utilized OLS regression analysis on state-level standardized testing data and government-funded teacher advancement programs to explore the link between merit pay and academic performance
   </p>
   </details>
-  
+  </p>
 </div>
