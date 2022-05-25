@@ -13,7 +13,7 @@ title: Research
   <h3>Works in Progress</h3>
   <p>N/A</p>
   <br>
-  <h3>Undergraduate Research | Not Published</h3>
+  <h3>Undergraduate Research Projects | Not Published</h3>
   
 <details>
   <summary>
