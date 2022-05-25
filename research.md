@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-<div class="text-center">
+<div class="text-left">
   <h1>Undergraduate Research Projects & Designs (Not Published)</h1>
   <p>
 
