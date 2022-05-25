@@ -6,13 +6,13 @@ title: Research
 <div class="text-left">
   <h3>Peer-reviewed Publications</h3>
   <p>N/A</p>
-  <br>
+  
   <h3>Working Papers</h3>
   <p>N/A</p>
-  <br>
+  
   <h3>Works in Progress</h3>
   <p>N/A</p>
-  <br>
+  
   <h3>Undergraduate Research Projects | Not Published</h3>
   
 <details>
