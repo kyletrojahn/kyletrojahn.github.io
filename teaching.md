@@ -7,5 +7,5 @@ title: Teaching
   <h1>in progress</h1>
   <br/>
 
-  <img src="{{ 'assets/img/orion_my_dog_gif.gif' | relative_url }}" alt="Not found" />
+  <img src="assets/img/orion_my_dog_gif.gif" alt="my dog" />
 </div>
