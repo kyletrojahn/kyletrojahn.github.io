@@ -62,4 +62,4 @@ title: Research
   </p>
 </div>
 
-<img src="assets/img/orion_my_dog_gif.gif" alt="my dog" width="288.5" height="216.5">
+<img src="assets/img/orion_my_dog_gif.gif" style="float: center" alt="my dog" width="288.5" height="216.5">
