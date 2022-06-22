@@ -14,5 +14,5 @@ title: Teaching
   </p>
   </details>
 
-  <img src="/assets/img/orion_my_dog_gif.gif" alt="my dog" width="300" height="auto">
+  <p style="text-align:center;"><img src="/assets/img/orion_my_dog_gif.gif" alt="my dog" width="200" height="auto"></p>
 </div>
