@@ -3,9 +3,16 @@ layout: page
 title: Teaching
 ---
 
-<div class="text-center">
-  <h1>Page Under Construction</h1>
-  <br/>
+<div>
+  <h3>Teaching Assistant</h3>
+  <details>
+  <summary>
+   GOV ###: ??? (Fall 2022)
+  </summary>
+  <p>
+    TBD
+  </p>
+  </details>
 
   <img src="/assets/img/orion_my_dog_gif.gif" alt="my dog" width="300" height="auto">
 </div>
