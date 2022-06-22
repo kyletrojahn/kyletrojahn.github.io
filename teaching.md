@@ -7,7 +7,7 @@ title: Teaching
   <h3>Teaching Assistant</h3>
   <details>
   <summary>
-   GOV ###: ??? (Fall 2022)
+   GOV ###: ??? (The University of Texas at Austin, Fall 2022)
   </summary>
   <p>
     TBD
