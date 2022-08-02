@@ -7,10 +7,10 @@ title: Teaching
   <h3>Teaching Assistant</h3>
   <details>
   <summary>
-   GOV 310L: American Government [Web-Based] (The University of Texas at Austin, Fall 2022)
+   GOV 310L: American Government (The University of Texas at Austin, Fall 2022)
   </summary>
   <p>
-    TBD
+    Web-based course on American Government
   </p>
   </details>
 
