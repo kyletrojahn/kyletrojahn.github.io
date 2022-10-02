@@ -10,7 +10,9 @@ title: Teaching
    GOV 310L: American Government (The University of Texas at Austin, Fall 2022)
   </summary>
   <p>
-    Web-based course on American Government
+    Web-based course on the topic of American Government with over 1,000 students
+    Individually managed approximately 150 students
+    Regularly hosted exam review sessions, conducted office hours, and graded exams/essays
   </p>
   </details>
 
