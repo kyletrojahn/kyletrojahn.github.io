@@ -12,7 +12,7 @@ title: Teaching
   <p>
     Web-based course on the topic of American Government with over 1,000 students <br>
     Individually managed approximately 150 students <br>
-    Regularly hosted exam review sessions, conducted office hours, and graded exams/essays
+    Regularly hosted exam review sessions and graded exams/essays
   </p>
   </details>
 
