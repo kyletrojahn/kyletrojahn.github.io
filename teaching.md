@@ -4,8 +4,8 @@ title: Teaching
 ---
 
 <div>
-  <h3>The University of Texas at Austin</h3>
-  <h2>Graduate Teaching Assistant</h2>
+  <h2>The University of Texas at Austin</h2>
+  <h3>Graduate Teaching Assistant</h3>
   <details>
   <summary>
    GOV 310L: American Government (Fall 2022; Spring 2023)
