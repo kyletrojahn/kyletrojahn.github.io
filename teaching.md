@@ -4,10 +4,10 @@ title: Teaching
 ---
 
 <div>
-  <h3>Teaching Assistant</h3>
+  <h3>The University of Texas at Austin as Graduate Teaching Assistant</h3>
   <details>
   <summary>
-   GOV 310L: American Government (The University of Texas at Austin, Fall 2022; Spring 2023)
+   GOV 310L: American Government (Fall 2022; Spring 2023)
   </summary>
   <p>
     Web-based course on the topic of American Government with over 1,000 students <br>
