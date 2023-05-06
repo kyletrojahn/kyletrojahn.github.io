@@ -7,20 +7,14 @@ title: Research
   <h3>Peer-reviewed Publications</h3>
   <p>N/A</p>
   
-  <h3>Working Papers</h3>
-  <p>N/A</p>
-  
-  <h3>Works in Progress</h3>
-  <p>N/A</p>
-  
-  <h3>Undergraduate Research Projects | Not Published</h3>
+  <h3>In Preparation</h3>
  <p> 
 <details>
   <summary>
-    Political Culture & State-level Elementary Education Appropriations (2019)
+    Gentrification and Attitudes Toward Public Transit Expansion (2023)
   </summary>
   <p>
-    Utilized Elazar’s political culture typology, Heck’s applied political culture framework on higher education appropriations, and Wirt’s study on legislator response to political culture to explore the link between a state legislature’s dominant political culture and elementary education appropriations.
+    Methodology: survey experiment. Premise: explores the effect of transit-induced gentrification on public attitudes toward public transit expansion. Finding: statistically significant impact on public attitudes.
   </p>
   </details>
 <br>
