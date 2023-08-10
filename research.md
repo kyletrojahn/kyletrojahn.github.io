@@ -11,7 +11,13 @@ title: Research
     Graduate Research Assistant (Princeton University, Andlinger Center for Energy and the Environment)
   </summary>
   <p>
-    Methodology: survey experiment. Premise: explores the effect of transit-induced gentrification on public attitudes toward public transit expansion. Finding: statistically significant impact on public attitudes.
+    <ul>
+  <li>NSF-funded DRMS project ”Collaborative Research: Responses to complex disruptive events: Cognition in a
+socio-political context” (2049796), Project Award Total: $503,918.00</li>
+  <li>Examined political participation in coastal communities negatively affected by climate change and social inequality</li>
+  <li>Conducted fieldwork with the research team to conduct additional interviews and focus groups with policymakers,
+leaders, and residents related to issues raised during the public comment periods</li>
+</ul>
   </p>
   </details>
 
