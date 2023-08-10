@@ -43,6 +43,21 @@ appropriate data from online and public agency sources</li>
 </ul>
   </p>
   </details>
+
+  <details>
+  <summary>
+    State & Local Policy Fellow (Code.org)
+  </summary>
+  <p>
+    <ul>
+  <li>Researched sub-national education and tech policy for the Advocacy team to advance computer science curriculum
+reform across the United States</li>
+  <li>Compiled and analyzed national education enrollment and demographic data from a variety of public agencies</li>
+  <li>Performed data analysis, data scraping, and data cleaning to help execute the organization’s state policy agenda</li>
+  <li>Conducted a comparative analysis of state legislative education reform practices</li>
+</ul>
+  </p>
+  </details>
   
   <h3>Peer-reviewed Publications</h3>
   <p>N/A</p>
