@@ -11,9 +11,11 @@ title: Teaching
    GOV 310L: American Government (Fall 2022; Spring 2023)
   </summary>
   <p>
-    Web-based course on the topic of American Government with over 1,000 students <br>
-    Individually managed approximately 150 students <br>
-    Regularly hosted exam review sessions and graded exams/essays
+    <ul>
+    <li>Web-based course on the topic of American Government with over 1,000 students</li>
+    <li>Individually managed approximately 150 students </li>
+    <li>Regularly hosted exam review sessions and graded exams/essays </li>
+    </ul>
   </p>
   </details>
 
