@@ -17,6 +17,8 @@ socio-political context” (2049796), Project Award Total: $503,918.00</li>
   <li>Examined political participation in coastal communities negatively affected by climate change and social inequality</li>
   <li>Conducted fieldwork with the research team to conduct additional interviews and focus groups with policymakers,
 leaders, and residents related to issues raised during the public comment periods</li>
+  <li>Created an original data set on local political participation in selected counties</li>
+  <li>Adapted the Comparative Agendas Project codebook to the local level on climate and social issues</li>
 </ul>
   </p>
   </details>
@@ -27,7 +29,18 @@ leaders, and residents related to issues raised during the public comment period
     Graduate Research Assistant (The University of Texas at Austin, Department of Community & Regional Planning)
   </summary>
   <p>
-    Methodology: survey experiment. Premise: explores the effect of transit-induced gentrification on public attitudes toward public transit expansion. Finding: statistically significant impact on public attitudes.
+    <ul>
+  <li>National Academies’ National Cooperative Highway Research Program-funded project “Guidance for Implementing
+Equitable Transportation Decision-Making” (NCHRP 08-162), Project Award Total: $750,000.00</li>
+  <li>Investigated how key organizational features and practices of state and regional transportation agencies facilitate or
+constrain equity in transportation policy decision-making</li>
+  <li>Organized and conducted 6 focus group interviews with public agency officials and stakeholders</li>
+  <li>Ensured quality control of focus group interview transcriptions</li>
+  <li>Identified, secured, and produced written review of relevant academic literature, public agency materials, and
+appropriate data from online and public agency sources</li>
+  <li>Drafted research papers and thematic research memos on transportation public policy-related topics</li>
+  <li>Drafted and submitted research reports to study funders</li>
+</ul>
   </p>
   </details>
   
