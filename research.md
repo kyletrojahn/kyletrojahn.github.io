@@ -45,7 +45,9 @@ appropriate data from online and public agency sources</li>
 </ul>
   </p>
   </details>
+  </p>
 
+<p>
   <details>
   <summary>
     State & Local Policy Fellow (Code.org)
@@ -61,6 +63,7 @@ reform across the United States</li>
 </ul>
   </p>
   </details>
+  </p>
   
   <h3>Peer-reviewed Publications</h3>
   <p>N/A</p>
