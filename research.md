@@ -11,6 +11,7 @@ title: Research
     Graduate Research Assistant (Princeton University, Andlinger Center for Energy and the Environment)
   </summary>
   <p>
+    Mar. 2023 – Present
     <ul>
   <li>NSF-funded DRMS project ”Collaborative Research: Responses to complex disruptive events: Cognition in a
 socio-political context” (2049796), Project Award Total: $503,918.00</li>
@@ -29,6 +30,7 @@ leaders, and residents related to issues raised during the public comment period
     Graduate Research Assistant (The University of Texas at Austin, Department of Community & Regional Planning)
   </summary>
   <p>
+    Jul. 2023 – Present
     <ul>
   <li>National Academies’ National Cooperative Highway Research Program-funded project “Guidance for Implementing
 Equitable Transportation Decision-Making” (NCHRP 08-162), Project Award Total: $750,000.00</li>
@@ -49,6 +51,7 @@ appropriate data from online and public agency sources</li>
     State & Local Policy Fellow (Code.org)
   </summary>
   <p>
+    Jan. 2023 – Jul. 2023
     <ul>
   <li>Researched sub-national education and tech policy for the Advocacy team to advance computer science curriculum
 reform across the United States</li>
