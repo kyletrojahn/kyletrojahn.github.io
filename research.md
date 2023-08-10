@@ -4,6 +4,27 @@ title: Research
 ---
 
 <div class="text-left">
+  <h3>Research Experience</h3>
+  <p> 
+<details>
+  <summary>
+    Graduate Research Assistant (Princeton University, Andlinger Center for Energy and the Environment)
+  </summary>
+  <p>
+    Methodology: survey experiment. Premise: explores the effect of transit-induced gentrification on public attitudes toward public transit expansion. Finding: statistically significant impact on public attitudes.
+  </p>
+  </details>
+
+  <p> 
+<details>
+  <summary>
+    Graduate Research Assistant (The University of Texas at Austin, Department of Community & Regional Planning)
+  </summary>
+  <p>
+    Methodology: survey experiment. Premise: explores the effect of transit-induced gentrification on public attitudes toward public transit expansion. Finding: statistically significant impact on public attitudes.
+  </p>
+  </details>
+  
   <h3>Peer-reviewed Publications</h3>
   <p>N/A</p>
   
