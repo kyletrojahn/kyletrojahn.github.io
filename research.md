@@ -75,7 +75,11 @@ reform across the United States</li>
     Gentrification and Attitudes Toward Public Transit Expansion (2023)
   </summary>
   <p>
-    Methodology: survey experiment. Premise: explores the effect of transit-induced gentrification on public attitudes toward public transit expansion. Finding: statistically significant impact on public attitudes.
+    <ul>
+    <li>Methodology: survey experiment</li>
+      <li>Premise: explores the effect of transit-induced gentrification on public attitudes toward public transit expansion</li>
+      <li>Finding: statistically significant impact on public attitudes</li>
+    </ul>
   </p>
   </details>
 <br>
