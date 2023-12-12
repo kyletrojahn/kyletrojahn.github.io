@@ -38,11 +38,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "trojahn@utexas.edu"
+  email: "kyletrojahn@gmail.com"
   twitter: kyleatrojahn
-  google-scholar: citations?user=oasYWp0AAAAJ&hl=en
   linkedin: kyletrojahn
-  github: kyletrojahn
+# google-scholar: citations?user=oasYWp0AAAAJ&hl=en
+#  github: kyletrojahn
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
