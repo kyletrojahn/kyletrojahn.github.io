@@ -30,7 +30,7 @@ leaders, and residents related to issues raised during the public comment period
     Graduate Research Assistant (The University of Texas at Austin, Department of Community & Regional Planning)
   </summary>
   <p>
-    Jul. 2023 – Present
+    Jul. 2023 – May 2024
     <ul>
   <li>National Academies’ National Cooperative Highway Research Program-funded project “Guidance for Implementing
 Equitable Transportation Decision-Making” (NCHRP 08-162), Project Award Total: $750,000.00</li>
